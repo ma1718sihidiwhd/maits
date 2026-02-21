@@ -40,7 +40,7 @@ PM/PMO、情報ガバナンス（GRC）、ITSM、クラウド、AI活用など
 
 ### 🟨 Cloud / AI
 - AWS / Azure / Google Cloud  
-- 生成AI活用（文書化、自動化、業務改善）  
+- 生成AI活用（文書化、業務改善）  
 
 ---
 
