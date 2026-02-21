@@ -1,9 +1,10 @@
 # 👤 Masato Adachi — IT Consultant / PMO / GRC / ITSM
 
-**強いITで、現場と経営をつなぐ**<br>
-25年以上のIT経験と法人経営の実践知を軸に、  
-PM/PMO、情報ガバナンス（GRC）、ITSM、クラウド、AI活用など  
-幅広い領域で実行可能な改善と伴走支援を提供。
+“強いITで、現場と経営をつなぐ”
+
+25年以上のIT経験と法人経営の実践を軸に、  
+PM/PMO、ITガバナンス（GRC）、ITSM、クラウド、AI活用など  
+幅広い領域で、実行可能で実効性のある改善と伴走支援を提供。
 
 ---
 
@@ -16,6 +17,7 @@ PM/PMO、情報ガバナンス（GRC）、ITSM、クラウド、AI活用など
 ---
 
 ## 🔶 Core Expertise
+
 ### 🟦 PM/PMO
 - PMBOK7  
 - プロジェクト計画書（100項目＋関連文書）作成  
@@ -25,22 +27,22 @@ PM/PMO、情報ガバナンス（GRC）、ITSM、クラウド、AI活用など
 ### 🟧 GRC（情報ガバナンス・セキュリティ）
 - FISC 300項目アセスメント  
 - ISMS文書整備・内部統制  
-- NIST CSFの理解  
 - セキュリティポリシー再整備  
 
 ### 🟩 ITSM
-- ITIL v3/4  
-- 運用設計  
-- 移管プロジェクト（ヘルプデスクなど）   
+- ITIL v3/v4  
+- 運用体制の構築・改善  
+- ヘルプデスク移管（1万人規模含む）  
+- SLA/OLAの策定  
 
 ### 🟪 経営・マネジメント
-- 法人経営：資金調達、営業、新規開拓  
-- 採用育成、評価制度  
-- 事業計画、財務、リスク管理  
+- 法人経営（資金調達〜営業〜採用〜育成）  
+- 組織整備  
+- 財務・リスク管理  
 
 ### 🟨 Cloud / AI
 - AWS / Azure / Google Cloud  
-- 生成AI活用（文書化、業務改善）  
+- 生成AI活用（文書化、自動化、業務改善）  
 
 ---
 
@@ -54,26 +56,22 @@ PM/PMO、情報ガバナンス（GRC）、ITSM、クラウド、AI活用など
 
 ## 🔶 Key Achievements
 - **FISCガイドライン300項目アセスメント**：監査対応力を大幅強化  
-- **PM計画書作成（100項目＋文書7点）**：顧客標準に採用  
-- **大手小売業 PMO**：ITガバナンス強化、内部監査改善  
-- **SAP本番移行PMO**：3ヶ月遅延プロジェクトを立て直し成功  
-- **外資BPO 1万人規模ヘルプデスク移管**：安定稼働に導く  
-- **自社経営**：社員スキルUP、売上向上  
+- **PM計画書作成（100項目＋文書7点）**：顧客標準として採用  
+- **大手小売業 PMO**：ITガバナンス強化、内部監査対応改善  
+- **SAP本番移行 PMO**：遅延3ヶ月の案件を巻き返し成功  
+- **外資BPO（1万人規模）移管 PMO**：安定稼働に導く  
+- **法人経営**：社員スキルUP・売上向上  
 
 ---
 
 ## 🔶 Skills / Tools
-- Jira / Confluence  
-- ITIL / MSP VCL / AWS CAF  
-- AWS / Azure / GCP  
-- Slack / Google Workspace / M365   
+- Jira / Confluence
+- AWS CAF / MSP VCL / ITIL  
+- Slack / Google Workspace / Microsoft 365    
 
 ---
 
 ## 🔶 Links
 - **LinkedIn:** https://www.linkedin.com/in/masato-adachi  
-- **Portfolio Top:** ../README.md
-
----
-
-必要に応じて詳細経歴は `career-detail.md` にまとめます。
+- **Portfolio Top:** [README](../README.md)
+``
