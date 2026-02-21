@@ -98,7 +98,7 @@ maits は、安達 將十（Masato Adachi）の
 
 ```txt
 /maits
-  ├── README.md           # 本ファイル（ブランド＋CV統合）
-  ├── projects/           # プロジェクト個別まとめ（別ページとして後で作成）
-  └── assets/             # 画像・ロゴなど（任意）
+  ├── README.md           # 本ファイル
+  ├── projects/           # プロジェクト個別まとめ（準備中）
+  └── assets/             # 画像・ロゴなど（準備中）
        └── maits-logo.png
