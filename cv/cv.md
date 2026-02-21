@@ -74,4 +74,3 @@ PM/PMO、ITガバナンス（GRC）、ITSM、クラウド、AI活用など
 ## 🔶 Links
 - **LinkedIn:** https://www.linkedin.com/in/masato-adachi  
 - **Portfolio Top:** [README](../README.md)
-``
