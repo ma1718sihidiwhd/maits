@@ -5,7 +5,7 @@
 
 ## 🔶 About maits
 maits は、安達 將十（Masato Adachi）の  
-**PM/PMO、GRC（情報ガバナンス・セキュリティ）、ITSM、事業運営**  
+**PM/PMO、GRC（ITガバナンス、セキュリティ）、ITSM、事業運営**  
 の知見を統合した個人ブランドです。
 
 25年以上のIT経験と、7年間の法人経営の実務を活かし、  
