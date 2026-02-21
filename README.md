@@ -1,5 +1,5 @@
 # maits - Masato Adachi IT Solutions
-“強いITで、現場と経営をつなぐ” ITコンサルティングブランド
+**強いITで、現場と経営をつなぐ ITコンサルティング**
 
 ---
 
