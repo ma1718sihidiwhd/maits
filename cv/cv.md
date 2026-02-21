@@ -1,6 +1,6 @@
 # 👤 Masato Adachi — IT Consultant / PMO / GRC / ITSM
 
-“強いITで、現場と経営をつなぐ”  
+**強いITで、現場と経営をつなぐ**<br>
 25年以上のIT経験と法人経営の実践知を軸に、  
 PM/PMO、情報ガバナンス（GRC）、ITSM、クラウド、AI活用など  
 幅広い領域で実行可能な改善と伴走支援を提供。
