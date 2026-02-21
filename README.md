@@ -1,4 +1,5 @@
-# maits - Masato Adachi IT Solutions
+# maits - ITコンサルティング
+
 **強いITで、現場と経営をつなぐ ITコンサルティング**
 
 ---
@@ -36,7 +37,7 @@ maits は、安達 將十（Masato Adachi）の
 - 情報セキュリティポリシー統合、改訂  
 
 ### 🟩 ITSM
-- ITIL v3/4  
+- ITIL v3/ ITIL4  
 - 運用設計  
 - ヘルプデスク移管（1万人規模）   
 
