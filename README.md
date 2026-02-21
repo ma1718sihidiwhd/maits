@@ -4,7 +4,7 @@
 
 ---
 
-## 🔶 About maits
+## 🔶 maitsについて
 maits は、安達 將十（Masato Adachi）の  
 **インフラ系PM/PMO、GRC（ITガバナンス、情報セキュリティ）、ITSM、事業運営**  
 の知見を統合した個人ブランドです。
@@ -14,7 +14,7 @@ maits は、安達 將十（Masato Adachi）の
 
 ---
 
-## 🔶 Profile
+## 🔶 プロフィール
 - **Name:** 安達　將十(Masato Adachi) 
 - **Role:** ITコンサルタント / PMO / GRC / ITSM / Founder  
 - **Experience:** 25年以上  
@@ -23,7 +23,7 @@ maits は、安達 將十（Masato Adachi）の
 
 ---
 
-## 🔶 Core Expertise
+## 🔶 提供できる価値
 
 ### 🟦 PM/PMO
 - PMBOK7  
@@ -52,9 +52,9 @@ maits は、安達 將十（Masato Adachi）の
 
 ---
 
-## 🔶 Summary of Experience
+## 🔶 主な経歴
 - **社内SE：11年**  
-- **Sier:４年**
+- **SIer:４年**
 - **個人事業主:1年**
 - **法人経営：7年間（資本金200 → 1000万）**
 - **国内コンサルファーム：8ヶ月**  
@@ -62,7 +62,7 @@ maits は、安達 將十（Masato Adachi）の
 
 ---
 
-## 🔶 Key Achievements
+## 🔶 主な実績
 - **FISC 300項目アセスメント**：監査対応力を大幅強化  
 - **PM計画書（100項目＋7文書）** を顧客標準として採用  
 - **大手小売業 PMO**：ITガバナンス強化、内部監査対応改善  
@@ -72,7 +72,7 @@ maits は、安達 將十（Masato Adachi）の
 
 ---
 
-## 🔶 Certifications（保有資格）
+## 🔶 保有資格
 - **普通自動車免許**  
 - **情報セキュリティアドミニストレータ**  
 - **ITIL v3 Foundation**  
@@ -81,7 +81,7 @@ maits は、安達 將十（Masato Adachi）の
 
 ---
 
-## 🔶 Skills / Tools
+## 🔶 ツール類
 - Jira / Confluence 
 - AWS CAF / MSP VCL / ITIL  
 - Slack / Google workspace / Microsoft 365   
