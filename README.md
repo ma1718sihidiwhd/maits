@@ -5,7 +5,7 @@
 
 ## 🔶 About maits
 maits は、安達 將十（Masato Adachi）の  
-**PM/PMO、GRC（ITガバナンス、セキュリティ）、ITSM、事業運営**  
+**PM/PMO(インフラ)、GRC（ITガバナンス、セキュリティ）、ITSM、事業運営**  
 の知見を統合した個人ブランドです。
 
 25年以上のIT経験と、7年間の法人経営の実務を活かし、  
@@ -21,10 +21,10 @@ maits は、安達 將十（Masato Adachi）の
 ---
 
 ## 🔶 Core Expertise  
-- **PM/PMO**：PMBOK7 / 進捗 / 課題 / 品質 / フェーズゲート  
-- **GRC**：FISC・ISMS・NIST・セキュリティ文書整備  
-- **ITSM**：ITIL v3/v4 / 運用設計 / SLA / 移管プロジェクト  
-- **経営**：資金調達・採用育成・営業・組織構築  
+- **PM/PMO**：インフラ/ PMBOK7 / 進捗 / 課題 / 品質 / フェーズゲート  
+- **GRC**：FISC/ ISMS / NIST /セキュリティ文書整備  
+- **ITSM**：ITIL v3/4 / 運用設計 / SLA / 移管プロジェクト  
+- **経営**：資金調達 / 採用育成 / 営業 / 組織構築  
 - **クラウド**：AWS / Azure / Google Cloud  
 - **AI**：生成AI活用、文書生成、提案補助
 
