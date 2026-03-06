@@ -64,7 +64,7 @@
 - ITIL v3 Foundation  
 - AZ-900：Microsoft Azure Fundamentals  
 - SAA-C02：AWSソリューションアーキテクト アソシエイト（取得歴あり）  
-- ※ PMP：近日取得予定
+- 米国PMI認定 Project Management Professional（PMP）
 
 ---
 
