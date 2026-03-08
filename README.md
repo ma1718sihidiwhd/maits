@@ -1,4 +1,4 @@
-# maits - Masato Adachi IT Solutions
+# maits
 maits は「強いITで、現場と経営をつなぐ」ことを使命とする IT コンサルティングブランドです。
 
 **“強いITで、現場と経営をつなぐ”**  
